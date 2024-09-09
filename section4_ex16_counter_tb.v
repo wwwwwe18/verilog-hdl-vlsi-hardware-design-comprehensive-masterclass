@@ -7,6 +7,7 @@
 //*****************************************************
 
 `timescale 1ns / 100ps
+
 module counter_up_basic_tb;
 reg				clk,rst;
 wire	[7:0]	count;
