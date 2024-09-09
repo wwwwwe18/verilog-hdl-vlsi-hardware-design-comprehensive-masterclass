@@ -10,8 +10,8 @@
 
 module FA_bh_tb;
 
-reg
-wire
+reg  a,b,cin;
+wire  s,c;
 
 FA_bh	FA1(s,c,a,b,cin);
 
