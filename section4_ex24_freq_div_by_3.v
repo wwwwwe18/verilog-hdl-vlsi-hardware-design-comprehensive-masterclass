@@ -30,6 +30,6 @@ always @(negedge clk)
 	else
 		neg_cnt <= neg_cnt + 1;
 
-assign clk_out = ((pos_cnt == 2) | (pos_cnt == 2));
+assign clk_out = ((pos_cnt == 2) | (neg_cnt == 2));
 
 endmodule
