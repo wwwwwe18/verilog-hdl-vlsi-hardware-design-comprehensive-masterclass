@@ -7,8 +7,14 @@ https://www.udemy.com/course/verilog-hdl-vlsi-hardware-design-comprehensive-mast
 ## Section 2 - Verilog Basics
 - Design styles: structural, dataflow, behavioural
 - Half adder
+  - section2_ex1_ha_df
+  - section2_ex2_ha_bh
+  - section2_ex3_ha_st
 - 1-bit full adder
 - Testbench
+
+Demo:
+
 
 ## Section 3 - Designing Combinational Logic
 - 4-bit full adder
