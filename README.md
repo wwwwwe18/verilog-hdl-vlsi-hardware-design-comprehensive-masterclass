@@ -97,3 +97,9 @@ https://www.udemy.com/course/verilog-hdl-vlsi-hardware-design-comprehensive-mast
 - section5_ex6_ram_dual_port2
 - section5_ex7_ram_true_dual_port1
 - section5_ex8_ram_true_dual_port2
+
+## Section 6 - Designing Finite State Machines
+### Mealy machine
+- section6_ex1_melay_seq_001
+### Moore machine
+- section6_ex2_moore_seq_001
