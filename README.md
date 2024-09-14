@@ -4,6 +4,8 @@ Verilog HDL: VLSI Hardware Design Comprehensive Masterclass
 
 https://www.udemy.com/course/verilog-hdl-vlsi-hardware-design-comprehensive-masterclass/
 
+## Section 1 - Introduction
+
 ## Section 2 - Verilog Basics
 ### Design styles: structural, dataflow, behavioural
 ### Half adder
@@ -83,3 +85,15 @@ https://www.udemy.com/course/verilog-hdl-vlsi-hardware-design-comprehensive-mast
 ### FIFO: single, dual clk
 - section4_ex25_fifo_single_clk
 - section4_ex26_fifo_dual_clk
+
+## Section 5 - Designing Memories
+### Single port ram
+- section5_ex1_ram_single_port1
+- section5_ex2_ram_single_port2
+- section5_ex3_ram_single_port3
+- section5_ex4_ram_single_port4
+### Dual port ram
+- section5_ex5_ram_dual_port1
+- section5_ex6_ram_dual_port2
+- section5_ex7_ram_true_dual_port1
+- section5_ex8_ram_true_dual_port2
