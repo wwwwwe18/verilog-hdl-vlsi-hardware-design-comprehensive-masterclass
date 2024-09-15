@@ -5,6 +5,7 @@ Verilog HDL: VLSI Hardware Design Comprehensive Masterclass
 https://www.udemy.com/course/verilog-hdl-vlsi-hardware-design-comprehensive-masterclass/
 
 ## Section 1 - Introduction
+N/A
 
 ## Section 2 - Verilog Basics
 ### Design styles: structural, dataflow, behavioural
